@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/Ejemplo_2.dtd.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE pelicula SYSTEM "Ejemplo_2.dtd.dtd">
+
+    <pelicula>
+    ...
+    </pelicula>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT pelicula (#PCDATA|html|director)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT director (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT html (#PCDATA)>

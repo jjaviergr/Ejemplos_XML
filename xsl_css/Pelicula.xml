@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- Enlace a la hoja de estilos -->
+<?xml-stylesheet type="text/css" href="pelicula.css"?>
+<pelicula>
+  Brazil
+  <director>Terry Gilliam</director>
+  <actor> Antonio Banderas </actor>
+  <cartel/>
+</pelicula>

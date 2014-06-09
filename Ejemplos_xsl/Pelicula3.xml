@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<!-- Enlace al documento que realiza la transformación XSL -->
+<?xml-stylesheet type="text/xsl" href="pelicula3.xsl"?>
+<pelicula titulo="Brazil" estreno="1985" minutos="142">
+    <reparto>
+        <interprete nombre="Jonathan" apellidos="Pryce" papel="protagonista"/>
+        <interprete nombre="Robert" apellidos="De Niro" papel="protagonista"/>
+        <interprete nombre="Kim" apellidos="Greist" papel="protagonista"/>
+    </reparto>
+</pelicula>

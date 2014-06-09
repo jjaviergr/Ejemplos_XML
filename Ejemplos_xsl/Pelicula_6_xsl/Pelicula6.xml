@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="pelicula6.xsl"?>
+<pelicula>
+    <titulo>Brazil</titulo>
+    <dvd>
+        <euros>19.95</euros>
+    </dvd>
+</pelicula>

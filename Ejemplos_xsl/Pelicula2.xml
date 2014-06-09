@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Enlace al documento que realiza la transformación XSL -->
+<?xml-stylesheet type="text/xsl" href="pelicula2.xsl"?>
+<pelicula>
+    Una pelicula
+<direccion>
+        <director>Terry Gilliam</director>
+        <director>John Ford</director>
+        <director>Clin Eastwood</director>
+    </direccion>
+    <actores>
+        <actor>Jonathan Pryce</actor>
+    </actores>
+</pelicula>

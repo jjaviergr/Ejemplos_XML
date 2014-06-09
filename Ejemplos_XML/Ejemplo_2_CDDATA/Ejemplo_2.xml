@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<pelicula>
+    Brazil
+<director>Terry Gilliam</director>
+    <html>
+        <!-- Ignorar partes del documento -->
+<![CDATA[
+<HTML>
+<HEAD>
+<TITLE>
+Brazil
+</TITLE>
+</HEAD>
+<BODY>
+<H1>Brazil</H1>
+<B>Director:</B> Terry Gilliam<BR>
+</BODY>
+</HTML>
+]]>
+    </html>
+</pelicula>
